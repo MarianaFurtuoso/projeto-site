@@ -1,2 +1,2 @@
 # projeto-site
- Projeto site Github do Curo em Vídeo 
+ Meu primeiro site pelo Github 
