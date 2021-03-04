@@ -4,12 +4,16 @@
 }
 
 body {
-    background-color: coral;
+    background-color: rgb(112, 105, 103);
 
 }
 
+img.lado {
+    float: right;
+}
+
 main {
-    background-color: cornsilk;
+    background-color: rgba(255, 255, 255, 0.952);
     width: 500px;
     margin: auto;
     padding: 10px;
